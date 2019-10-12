@@ -5,6 +5,7 @@
 
 <b> 1. Using LR finder, we get a learning of 0.1. <b>
   
+  ![alt text](https://github.com/rp8081/Session-11/blob/master/LR.PNG)
 
 <b> 2. Then we train our model with following functionality :-   <b>
 <b>            learning rate of 0.1 + cutout + SGD with momentum  <b>
@@ -13,4 +14,8 @@
   
 <b> 4. Accuarcy Curves <b>
   
+  ![alt text](https://github.com/rp8081/Session-11/blob/master/Accuracy%20Curves.PNG)
+  
 <b> 5. GradCAM on 25 Misclassified images <b>
+![alt text](https://github.com/rp8081/Session-11/blob/master/GradCAM.PNG)
+
