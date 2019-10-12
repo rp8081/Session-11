@@ -6,3 +6,5 @@
 <b> 1. Using LR finder, we get a learning of 0.1. <b>
   
 
+<b> Then we train our model with following functionality :-   <b>
+<b>            learning rate of 0.1 + cutout + SGD with momentum  <b>
